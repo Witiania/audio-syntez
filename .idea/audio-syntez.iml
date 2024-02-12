@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/audio-syntez/src" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/audio-syntez/tests" isTestSource="true" packagePrefix="App\Tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/doctrine/doctrine-migrations-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/doctrine/migrations" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/doctrine/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/friendsofphp/php-cs-fixer" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/lcobucci/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/lexik/jwt-authentication-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/namshi/jose" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/phpstan/extension-installer" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/phpstan/phpstan" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/psr/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/stella-maris/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/doctrine-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/flex" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/framework-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/mailer" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/maker-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/options-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/password-hasher" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/polyfill-php83" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/polyfill-uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/property-access" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/property-info" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/runtime" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/security-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/security-core" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/security-csrf" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/security-http" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/stopwatch" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/uid" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/audio-syntez/vendor/symfony/yaml" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
